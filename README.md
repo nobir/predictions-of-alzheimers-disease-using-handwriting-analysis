@@ -25,7 +25,6 @@ To reproduce the results, follow these steps:
 
    ```bash
    pip install -r requirements.txt
-   Run the Jupyter notebook:
    ```
 3. Run the Jupyter notebook:
    ```bash
